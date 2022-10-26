@@ -1,5 +1,4 @@
-# Backend-APIs-HBTS
+# Base login
 
-This is our Capstone Project
+This is base module login, register using jwt and spring security
 
-HBTS - Backend
